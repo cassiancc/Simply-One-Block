@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "0dabb396e1a6d04b084986f0f58199944fed33aac15c73b8b1d7973239f2e7de"
+metafile = true
+
+[[files]]
+file = "mods/kappa.pw.toml"
+hash = "a0973ab120030308c9ed97cc7216ad0fff012a4e72639fc6c9aba898d4febd80"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "ec64297b6b7f82ede5ecc46a82e8a0e8dc8b730ee2ad763427b7043389b7a072"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "e151fe842a9f578b400d9bdfcc3be782861098415aec5cc7909eb69ec425faa3"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
+file = "mods/sleepbackground.pw.toml"
+hash = "a7fa874498b0281f5fafead4a9b0ef8875fefb8755e280d48ebcd03440d3d8f8"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "99f9628800ccabd189b9bb28859f01caaf9ad672f247ae875e3eaa5f965f9406"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "8ccc80424271ce6e91be140101f7ebacf55bcdfd430d88d5476f3bc9df4bf1a9"
+metafile = true

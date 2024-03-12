@@ -1,0 +1,13 @@
+name = "Fabric API"
+filename = "fabric-api-0.48.1+22w13oneblockatatime.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.48.1%2B22w13oneblockatatime/fabric-api-0.48.1%2B22w13oneblockatatime.jar"
+hash-format = "sha1"
+hash = "d6e4887f06714eef395e8fa69d27beb32f92e906"
+
+[update]
+[update.modrinth]
+mod-id = "P7dR8mSH"
+version = "BMFJwerO"

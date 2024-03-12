@@ -1,0 +1,16 @@
+name = "Simply One Block"
+author = "cassiancc"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b8dfddfae519811e68adb41ec55d4fd61aa435ef5eb2d51924b26c7cdc239114"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "22w13oneblockatatime"
+
+[options]
+acceptable-game-versions = ["1.18.2"]

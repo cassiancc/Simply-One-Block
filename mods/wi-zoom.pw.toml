@@ -1,0 +1,13 @@
+name = "WI Zoom"
+filename = "WI-Zoom-1.3-MC22w13oneblockatatime.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o7DitHWP/versions/NqS5XoK9/WI-Zoom-1.3-MC22w13oneblockatatime.jar"
+hash-format = "sha1"
+hash = "e35dc45b9fef0cfb9692ee32f98b700619240090"
+
+[update]
+[update.modrinth]
+mod-id = "o7DitHWP"
+version = "NqS5XoK9"

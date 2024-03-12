@@ -1,0 +1,7 @@
+name = "sleepbackground"
+filename = "sleepbackground-3.8-22w13oneblockatatime.jar"
+
+[download]
+url = "https://github.com/RedLime/SleepBackground/releases/download/3.8/sleepbackground-3.8-22w13oneblockatatime.jar"
+hash-format = "sha256"
+hash = "a0a8190083d57717f750eca886301fe1cb0187f27f370d73d7d7dcdb689f0fa6"
