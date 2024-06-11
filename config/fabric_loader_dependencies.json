@@ -12,7 +12,7 @@
         "fabric-api": "IGNORED"
       }
     },
-    "mousetweaks": {
+    "betterf3": {
       "-depends": {
         "minecraft": "IGNORED"
       }

@@ -1,8 +1,45 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "233d1e9a9ff11623604211d207864e66a6aef84816f0fe673311c2df69748b3f"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "8bbc5aa0959d2c8e38e670daa7a91781b0d9a261f8057cf30be1ffdea8dc411b"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "82a022760c1ca91894bc3b1184664cf65e16ba39dc17a4aa2fc482c4fe4df581"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "7dd8f888006fab73ce78c021ef302f09da20cb33519032f69cf48e393b496abc"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "b40f70a475ebb531a7ecc7e25bca30499119b6ed9b0f09620d8f1797e464b009"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "567950fcaddb65bfc21783f9983400387223bb4ff69584b385fb4f5d9a7d50ac"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "ce7dee53120d75661c9d9bc9e19fd0165c7f9768d51b99ef1975862b76f0c3e4"
+
+[[files]]
 file = "mods/HorseBuff-22w13oneblockatatime-2.0.1.jar"
 hash = "83833505d856b4ffda3bd0524588b59c8d81095d302051ce3598427f58704d90"
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "c37ca9e96604f690578c8784cd791121baa5764a679ea44f990ab6699355a59d"
+metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
