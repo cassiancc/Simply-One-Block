@@ -1,0 +1,21 @@
+{
+   "version": 1,
+   "overrides": {
+     "horsebuff": {
+       "-depends": {
+         "minecraft": "IGNORED"
+       }
+     },
+     "jade": {
+      "-depends": {
+        "minecraft": "IGNORED",
+        "fabric-api": "IGNORED"
+      }
+    },
+    "mousetweaks": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    }
+   }
+ }
