@@ -1,13 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/HorseBuff-22w13oneblockatatime-2.0.1.jar"
+hash = "83833505d856b4ffda3bd0524588b59c8d81095d302051ce3598427f58704d90"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "f90a836fdbf3d3d66f5a670213022711aa4d1762edc8265a8e97b9606cd9b49e"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "0dabb396e1a6d04b084986f0f58199944fed33aac15c73b8b1d7973239f2e7de"
 metafile = true
 
 [[files]]
-file = "mods/kappa.pw.toml"
-hash = "a0973ab120030308c9ed97cc7216ad0fff012a4e72639fc6c9aba898d4febd80"
+file = "mods/jade.pw.toml"
+hash = "dc57f97cb174b5d9fbfd7b73d7e9af8f1b5720d1ca1cbbfe676a4b74707899ad"
 metafile = true
 
 [[files]]
